@@ -3,7 +3,7 @@ var React = require('react');
 var About = () => {
   return (
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>
         This is a weather application built using <a href="https://facebook.github.io/react" target="_blank">React</a>, following <a href="https://www.udemy.com/the-complete-react-web-app-developer-course/" target="_blank">"The complete React Web App Developer Course."</a>
       <br/>
